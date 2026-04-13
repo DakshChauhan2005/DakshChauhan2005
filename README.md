@@ -140,7 +140,7 @@ An API to compute taxes dynamically in real-time.
 I'm always open to collaborating on interesting projects or discussing tech. Feel free to reach out!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dakshchauhan-/)
-- 📧 [Email](mailto:your-email@example.com)
+- 📧 [Email](mailto:dakahchauhan111@gmail.com)
 - 🌐 [Portfolio](https://github.com/DakshChauhan2005)
 
 ---
